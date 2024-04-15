@@ -21,7 +21,7 @@ function checkForQuickLink() {
 // Handle Download Button click event
 $("#download_btn").on("click", function () {
     const url = $("#url").val();
-    const myAdUrl = "https://ads.com";
+    const myAdUrl = "https://sajjadalibabar.live";
     const iframeHTML = `
         <iframe class="mx-auto mb-3" style="width:800px;height:250px;border:0;overflow:hidden;" 
                 scrolling="no" 
